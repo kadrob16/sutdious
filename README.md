@@ -1,2 +1,2 @@
-# stidious
+# studious
 bad coding
